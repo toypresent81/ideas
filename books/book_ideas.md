@@ -7,6 +7,6 @@
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
-- [x] Mastering git
-- [ ] Care and feeding of developers
+- [ ] Mastering git
+- [x] Care and feeding of developers
 - [ ] Debugging with the Grace Hopper Method
